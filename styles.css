@@ -247,7 +247,7 @@ a {
                                 display: inline-block;
                                 width: 20px;
                                 height: 20px;
-                                background: url("/images/lamp.png") center / contain no-repeat;
+                                background: url("images/lamp.png") center / contain no-repeat;
                                 margin-right: 2px;
                                 padding-top: 6px;
                             }
