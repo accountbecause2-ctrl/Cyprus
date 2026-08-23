@@ -196,6 +196,7 @@ a {
 
                         >summary {
                             list-style: none;
+                            cursor: pointer;
 
                             >heading {
                                 display: flex;
